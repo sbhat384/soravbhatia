@@ -7,7 +7,7 @@ from PIL import Image
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
-resume_file = current_dir / "assets" / "CV.pdf"
+resume_file = current_dir / "assets" / "CV1.pdf"
 profile_pic = current_dir / "assets" / "sb.png"
 
 
@@ -21,8 +21,8 @@ Senior Technical Analyst | Business Intelligence & Analytics Leader
 EMAIL = "soravbhatia384@gmail.com"
 
 PROJECTS = {
-    "🏆 EREX Authorization Dashboard - Developed a sophisticated real-time authorization dashboard using Python, SQL, and ML, integrating data across multiple healthcare systems (EREX, TruCare, CLAIMS). Leveraged predictive analytics (RNN models) and neural networks to improve resource planning by 25%.": "https://youtu.be/Sb0A9i6d320",
-    "🏆 Provider Call Center Dashboard - Created a dynamic dashboard for call center operations, leveraging Power BI and SQL to provide real-time performance insights. Used advanced data transformation techniques and machine learning algorithms to improve operational metrics by 20%.": "https://youtu.be/Sb0A9i6d320",
+    "🏆 EREX Authorization Dashboard - Developed a sophisticated real-time authorization dashboard using Python, SQL, and ML, integrating data across multiple healthcare systems (EREX, TruCare, CLAIMS). Leveraged predictive analytics (RNN models) and neural networks to improve resource planning by 25%.": "https://soravbhatia.onrender.com/",
+    "🏆 Provider Call Center Dashboard - Created a dynamic dashboard for call center operations, leveraging Power BI and SQL to provide real-time performance insights. Used advanced data transformation techniques and machine learning algorithms to improve operational metrics by 20%.": "https://soravbhatia.onrender.com/",
 }
 
 

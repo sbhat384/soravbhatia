@@ -12,7 +12,7 @@ profile_pic = current_dir / "assets" / "sb.png"
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | Sorav Bhatia"
+PAGE_TITLE = "CV | Sorav Bhatia"
 PAGE_ICON = "👨‍💻"
 NAME = "Sorav Bhatia"
 DESCRIPTION = """
